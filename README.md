@@ -1,0 +1,6 @@
+Professor....Olá
+O index.html é o principal....dali chamo via script src o Javascript que contém o get do elemento via querySelector ea lógica do Fetch Api abaixo...
+bem como for in para pegar os result e aplicar numa const e testar com if se existe campos com id equivalentes no form Html...estudei pelo youtube...mas entendi toda a lógica do Fetch Api sem problemas...
+
+
+Abs.
